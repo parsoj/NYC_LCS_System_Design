@@ -7,7 +7,7 @@
 
 ## Deliverables
 
-- [ ] Start here
-- [ ] Glossary
+- [ ] Start here - Rodrigo
+- [ ] Glossary - Carl
 - [ ] Reshaded
 - [ ] Papers
