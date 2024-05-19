@@ -1,10 +1,12 @@
 **Reshaded**
+<br>
 [Educative Link](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/the-reshaded-approach-for-system-design)
 
 Step-by-Step Guide for System Design Interviews
 
 1. **R**equirements: Ask Clarifying Questions and create functional and non-functional requirements
 2. **E**stimation: Calculate queries/sec
+<br>
    <u>You can perform steps 3-5 below in any order just clearly state which you are doing, you can also go back and forth between these</u>
 3. **S**chema Design (Possibly Optional)
 4. **H**igh Level Design
